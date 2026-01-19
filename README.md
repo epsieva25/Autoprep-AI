@@ -4,12 +4,12 @@ AutoPrep AI is an intelligent data preparation and auditing tool designed to str
 
 ## Features
 
-- **Project Management**: Organize your data work into projects.
+- **Project Management**: Organize data work into projects.
 - **Data Upload & Inspection**: Upload CSV datasets and inspect rows/columns instantly.
 - **AI-Powered Audit**: 
     - Uses **Isolation Forest** to detect statistical outliers and data anomalies.
     - Automatically calculates a quality score based on missing values and duplicates.
-- **Automated Analysis**: Get instant insights into your data's health upon upload.
+- **Automated Analysis**: Get instant insights into data's health upon upload.
 - **Pipeline Generation**: Automatically generate a Python script (`pipeline.py`) that reproduces your data processing steps (cleaning, transformations) for reproducibility.
 
 ## Tech Stack
@@ -80,7 +80,7 @@ AutoPrep AI is an intelligent data preparation and auditing tool designed to str
 
 ## Usage
 
-1.  Open the frontend in your browser.
+1.  Open the frontend in the browser.
 2.  Create a new project.
 3.  Upload a CSV dataset.
 4.  View the automated "AI Audit" results to see anomalies and quality scores.
